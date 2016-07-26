@@ -1,0 +1,9 @@
+secrets.yml
+dev.db
+**/*.orig
+**/*.swp
+Gemfile
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+
